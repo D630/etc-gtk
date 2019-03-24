@@ -1,3 +1,5 @@
+gtk-cursor-theme-name="Adwaita"
+gtk-cursor-theme-size=0
 gtk-font-name = "Sans 10"
-gtk-icon-theme-name = "Hicolor"
+gtk-icon-theme-name = "Adwaita"
 gtk-theme-name = "Arc-Dark"
